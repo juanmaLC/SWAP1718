@@ -1,0 +1,45 @@
+**SERVIDORES WEB DE ALTAS PRESTACIONES**
+
+Practica 1 :  Preparación de las herramientas
+
+1.*IP DE CADA UNA DE LAS MAQUINAS:*
+
+Ip maquina1:
+![ ](/home/juanma/Escritorio/UNI/Tercero/SWAP/P1/ifconfigMaquina1.png  "Ip Maquina1")
+
+Ip maquina2:
+![ ](/home/juanma/Escritorio/UNI/Tercero/SWAP/P1/ifconfigMaquina2.png  "Ip maquina2")
+
+	El usuario de la maquina 1 es :juanma
+	El usuario de la maquina 2 es :juanma2
+
+2.ACCEDER MEDIANTE CURL:
+
+- Maquina 1 a la maquina 2:
+![](/home/juanma/Escritorio/UNI/Tercero/SWAP/P1/curlMaquina1.png) 
+
+- Maquina 2 a la maquina 1:
+![](/home/juanma/Escritorio/UNI/Tercero/SWAP/P1/curlMaquina2.png) 
+
+
+3.ACCESO MEDIANTE SSH:
+
+- Maquina 1 a la maquina 2: 
+![](/home/juanma/Escritorio/UNI/Tercero/SWAP/P1/sshMaquina1aMaquina2.png) 
+- ls en maquina 2 para comprobar resultado:
+ ![](/home/juanma/Escritorio/UNI/Tercero/SWAP/P1/lsMaquina2.png) 
+ 
+ 
+ 
+ - Maquina 2 a la maquina 1:
+ ![](/home/juanma/Escritorio/UNI/Tercero/SWAP/P1/sshMaquina2a1.png) 
+ **Aclaracion: en esta conexión ssh no me pidio contraseña porque ya tenia parte de la pratica 2 hecha y el ssh configurado para acceder sin contraseña**
+ - ls en maquina 1 para comprobar resultado:
+ ![](/home/juanma/Escritorio/UNI/Tercero/SWAP/P1/lsMaquina1.png) 
+ 
+
+
+
+
+
+

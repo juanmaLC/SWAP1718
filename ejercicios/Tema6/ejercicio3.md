@@ -1,3 +1,5 @@
+EJERCICIO 3 / TEMA 6:
+
 1-Escaneo de puertos: Es utilizada por los piratas infórmaticos para descubrir los servicios expuestos de un servidor. Se pueden evitar de la siguiente manera:
 
 -Cerrar todos los puertos de los servicios que no estemos utilizando.
